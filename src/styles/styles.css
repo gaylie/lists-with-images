@@ -49,7 +49,9 @@ wrapper {
             vertical-align: bottom;
         }
         a {
+            min-height: 3lh;
             text-decoration: none;
+            max-width: 300px;
         }
     }
 }

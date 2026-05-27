@@ -1,0 +1,105 @@
+{
+    "data": {
+        "title": "List of Corvid Species with Images (WIP)",
+        "cardcolor": "#fff"
+    },
+    "list": [
+        {
+            "header": "Scrub-Jays and Allies (Aphelocoma)",
+            "src": "https://www.inaturalist.org/taxa/7824-Aphelocoma",
+            "members": [
+                {
+                    "name": "California Scrub-Jay (Aphelocoma californica)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/6400146/large.jpg",
+                    "src": "https://www.inaturalist.org/observations/5188889"
+                },
+                {
+                    "name": "Florida Scrub-Jay (Aphelocoma coerulescens)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/348171794/large.jpeg",
+                    "src": "https://www.inaturalist.org/observations/197652132"
+                },
+                {
+                    "name": "Island Scrub Jay (Aphelocoma insularis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/415703315/original.jpg",
+                    "src": "https://www.inaturalist.org/observations/233883264"
+                },
+                {
+                    "name": "Transvolcanic Jay (Aphelocoma ultramarina)",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aphelocoma_ultramarina_5265159.jpg",
+                    "src": "https://en.wikipedia.org/wiki/Transvolcanic_jay"
+                },
+                {
+                    "name": "Unicolored Jay (Aphelocoma unicolor)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/355531609/large.jpeg",
+                    "src": "https://www.inaturalist.org/observations/201408066"
+                },
+                {
+                    "name": "Mexican Jay (Aphelocoma wollweberi)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/341419954/large.jpeg",
+                    "src": "https://www.inaturalist.org/observations/194260995"
+                },
+                {
+                    "name": "Woodhouse's Scrub-Jay (Aphelocoma woodhouseii)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/618609393/original.jpg",
+                    "src": "https://www.inaturalist.org/observations/339991592"
+                }
+            ]
+        },{
+            "header": "Green-Magpies (Cissa)",
+            "src": "https://www.inaturalist.org/taxa/8507-Cissa",
+            "members": [
+                {
+                    "name": "Common Green-Magpie (Cissa chinensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/547338323/original.jpg",
+                    "src": "https://www.inaturalist.org/observations/303660375"
+                },
+                {
+                    "name": "Indochinese Green Magpie (Cissa hypoleuca)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/354550902/large.jpg",
+                    "src": "https://www.inaturalist.org/observations/200908624"
+                },
+                {
+                    "name": "Bornean Green-Magpie (Cissa jefferyi)",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Short-tailed_Green_Magpie_%2813890572635%29.jpg/1280px-Short-tailed_Green_Magpie_%2813890572635%29.jpg",
+                    "src": "https://en.wikipedia.org/wiki/Bornean_green_magpie"
+                },
+                {
+                    "name": "Javan Green-Magpie (Cissa thalassina)",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Javan_Green_Magpie_at_Chester_Zoo.png",
+                    "src": "https://en.wikipedia.org/wiki/Javan_green_magpie"
+                }
+            ]
+        },
+        {
+            "header": "Jackdaws (Coloeus)",
+            "src": "https://www.inaturalist.org/taxa/336400-Coloeus",
+            "members": [
+                {
+                    "name": "Eurasian Jackdaw / Western Jackdaw (Coleos monedula ssp. spermologus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/252693522/original.jpg",
+                    "src": "https://www.inaturalist.org/observations/146913240"
+                },
+                {
+                    "name": "Eurasian Jackdaw / Algerian Jackdaw (Coleos monedula ssp. cirtensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/25339171/original.jpeg",
+                    "src": "https://www.inaturalist.org/observations/16786688"
+                },
+                {
+                    "name": "Eurasian Jackdaw / Nordic Jackdaw (Coleos monedula ssp. monedula)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/191072532/original.jpeg",
+                    "src": "https://www.inaturalist.org/observations/113089038"
+                },
+                {
+                    "name": "Eurasian Jackdaw / Soemmerring's Jackdaw (Coleos monedula ssp. sommerringii)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/12999520/large.jpeg",
+                    "src": "https://www.inaturalist.org/observations/9532521"
+                },
+                {
+                    "name": "Daurian Jackdaw (Coleos dauuricus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/387083575/original.jpeg",
+                    "src": "https://www.inaturalist.org/observations/218734155"
+                }
+            ]
+        }
+    ]
+}

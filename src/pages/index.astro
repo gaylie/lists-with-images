@@ -1,36 +1,22 @@
 ---
 import Base from '../layouts/base.astro';
 import Table from '../components/table.astro';
-import corvids from '../data/corvids.json';
+import { getCollection } from 'astro:content';
+const lists  = await getCollection('lists');
 
 var data = {
-	title: "List of Corvid Species with Images (WIP)",
-	image: corvids[0].members[0].img,
-	cardcolor: "#fff"
+	"title": "Lists of Things with Images",
+	"cardcolor": "#fff"
 };
 ---
 <Base data={data}>
-
-	<h2>Index</h2>
-	<ul>
-		{ corvids.map((corvid, idx) => (
-			<li>
-				<a href=`#corvid-${idx}`>
-				{ corvid.genus }
-				</a>
-			</li>
-		))}
-	</ul>
-
-	{ corvids.map((corvid, idx) => (
-		<div id=`corvid-${idx}`>
-			<a class="center" href={corvid.src} target="_blank"><h2>{ corvid.genus }</h2></a>
-			<Table data={corvid.members}>
-
-			</Table>
-		</div>
-		
+<ul>
+	{lists.map(list=> (
+		<li>
+			<a href=`/${list.id}`>{list.data.data.title}</a>
+		</li>
 	))}
+</ul>
 </Base>
 
 		
