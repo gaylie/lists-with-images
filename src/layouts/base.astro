@@ -1,0 +1,31 @@
+---
+import '../styles/styles.css';
+const {data} = Astro.props;
+---
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+        <meta name="robots" content="noai, noimageai">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+
+        <meta property="og:type" content="website">
+        <meta property="og:title" content={data.title}>
+        <meta property="og:description" content={data.title}>
+        <meta property="og:image" content={data.image}>
+        <meta name="theme-color" content={data.cardcolor}>
+        <meta property="twitter:card" content="summary">
+
+		<title>{data.title}</title>
+	</head>
+	<body>
+        <content>
+            <h1 class="center">{data.title}</h1>
+            <slot />
+        </content>
+        
+        <footer>
+            The webmaster of this site is not a professional in whatever you're viewing a list of and does not guarantee accuracy or completeness.
+            Sources to all images are linked in the label underneath each image. Source of the list is linked in the list's header.
+        </footer>
+	</body>
+</html>
