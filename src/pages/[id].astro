@@ -38,9 +38,19 @@ var data = {
 	{ listdata.map((item, idx) => (
 		<div id=`item-${idx}`>
 			<h2 class="center">List of <a href={item.src} target="_blank">{ item.header }</a> with Images</h2>
-			<Table data={item.members}>
 
-			</Table>
+			<wrapper>
+				{ item.members.map(member => (
+					<div>
+						<a href={member.img} target="_blank">
+							<img src={member.img} alt=`Photo of a ${member.name}` />
+						</a>
+						<a href={member.src} target="_blank">
+							{member.name}
+						</a>
+					</div>
+				)) }
+			</wrapper>
 		</div>
 		
 	))}
