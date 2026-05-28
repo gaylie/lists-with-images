@@ -19,6 +19,7 @@ import Table from '../components/table.astro';
 var data = {
     ...metadata,
 	image: listdata[0].members[0].img,
+	description: `${metadata.title} including ${listdata.map((list) => (list.header))?.join(", ")}`
 };
 ---
 
@@ -36,7 +37,7 @@ var data = {
 
 	{ listdata.map((item, idx) => (
 		<div id=`item-${idx}`>
-			<a class="center" href={item.src} target="_blank"><h2>{ item.header }</h2></a>
+			<h2 class="center">List of <a href={item.src} target="_blank">{ item.header }</a> with Images</h2>
 			<Table data={item.members}>
 
 			</Table>
