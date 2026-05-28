@@ -11,7 +11,7 @@ const {data} = Astro.props;
         <meta property="og:type" content="website">
         <meta property="og:title" content={data.title}>
         <meta property="og:description" content={data.description ?? data.title}>
-        <meta property="description" content={data.description ?? data.title}>
+        <meta name="description" content={data.description ?? data.title}>
         <meta property="og:image" content={data.image}>
         <meta name="theme-color" content={data.cardcolor}>
         <meta property="twitter:card" content="summary">
