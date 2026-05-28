@@ -35,6 +35,7 @@ wrapper {
         flex-direction: column;
         padding: 1rem;
         text-align: center;
+        align-items: center;
         justify-content: end;
         max-width: 45%;
 
@@ -51,6 +52,8 @@ wrapper {
         a {
             min-height: 3lh;
             text-decoration: none;
+        }
+        a:not(:has(img)){
             max-width: 300px;
         }
     }
