@@ -21,6 +21,8 @@ var data = {
 	image: listdata[0].members[0].img,
 	description: `${metadata.title} including ${listdata.map((list) => (list.header))?.join(", ")}`
 };
+
+console.log(listdata);
 ---
 
 <Base data={data}>

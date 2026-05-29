@@ -10,37 +10,37 @@
             "members": [
                 {
                     "name": "California Scrub-Jay (Aphelocoma californica)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/6400146/large.jpg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/6400146/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/5188889"
                 },
                 {
                     "name": "Florida Scrub-Jay (Aphelocoma coerulescens)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/348171794/large.jpeg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/348171794/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/197652132"
                 },
                 {
                     "name": "Island Scrub-Jay (Aphelocoma insularis)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/415703315/original.jpg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/415703315/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/233883264"
                 },
                 {
                     "name": "Transvolcanic Jay (Aphelocoma ultramarina)",
-                    "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aphelocoma_ultramarina_5265159.jpg",
-                    "src": "https://en.wikipedia.org/wiki/Transvolcanic_jay"
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/5265159/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/4387592"
                 },
                 {
                     "name": "Unicolored Jay (Aphelocoma unicolor)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/355531609/large.jpeg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/355531609/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/201408066"
                 },
                 {
                     "name": "Mexican Jay (Aphelocoma wollweberi)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/341419954/large.jpeg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/341419954/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/194260995"
                 },
                 {
                     "name": "Woodhouse's Scrub-Jay (Aphelocoma woodhouseii)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/618609393/original.jpg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/618609393/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/339991592"
                 }
             ]
@@ -50,23 +50,23 @@
             "members": [
                 {
                     "name": "Common Green-Magpie (Cissa chinensis)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/547338323/original.jpg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/547338323/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/303660375"
                 },
                 {
                     "name": "Indochinese Green Magpie (Cissa hypoleuca)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/354550902/large.jpg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/354550902/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/200908624"
                 },
                 {
                     "name": "Bornean Green-Magpie (Cissa jefferyi)",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Short-tailed_Green_Magpie_%2813890572635%29.jpg/1280px-Short-tailed_Green_Magpie_%2813890572635%29.jpg",
-                    "src": "https://en.wikipedia.org/wiki/Bornean_green_magpie"
+                    "src": "https://commons.wikimedia.org/wiki/File:Short-tailed_Green_Magpie_(13890572635).jpg"
                 },
                 {
                     "name": "Javan Green-Magpie (Cissa thalassina)",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Javan_Green_Magpie_at_Chester_Zoo.png",
-                    "src": "https://en.wikipedia.org/wiki/Javan_green_magpie"
+                    "src": "https://commons.wikimedia.org/wiki/File:Javan_Green_Magpie_at_Chester_Zoo.png"
                 }
             ]
         },
@@ -75,29 +75,235 @@
             "src": "https://www.inaturalist.org/taxa/336400-Coloeus",
             "members": [
                 {
-                    "name": "Eurasian Jackdaw / Western Jackdaw (Coleos monedula ssp. spermologus)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/252693522/original.jpg",
+                    "name": "Western Eurasian Jackdaw (Coleos monedula ssp. spermologus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/252693522/medium.jpg",
                     "src": "https://www.inaturalist.org/observations/146913240"
                 },
                 {
-                    "name": "Eurasian Jackdaw / Algerian Jackdaw (Coleos monedula ssp. cirtensis)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/25339171/original.jpeg",
+                    "name": "Algerian Eurasian Jackdaw (Coleos monedula ssp. cirtensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/25339171/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/16786688"
                 },
                 {
-                    "name": "Eurasian Jackdaw / Nordic Jackdaw (Coleos monedula ssp. monedula)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/191072532/original.jpeg",
+                    "name": "Nordic Eurasian Jackdaw (Coleos monedula ssp. monedula)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/191072532/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/113089038"
                 },
                 {
-                    "name": "Eurasian Jackdaw / Soemmerring's Jackdaw (Coleos monedula ssp. sommerringii)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/12999520/large.jpeg",
+                    "name": "Soemmerring's Eurasian Jackdaw (Coleos monedula ssp. sommerringii)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/12999520/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/9532521"
                 },
                 {
                     "name": "Daurian Jackdaw (Coleos dauuricus)",
-                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/387083575/original.jpeg",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/387083575/medium.jpeg",
                     "src": "https://www.inaturalist.org/observations/218734155"
+                }
+            ]
+        },
+        {
+            "header": "Crows and Ravens (Corvus)",
+            "src": "https://www.inaturalist.org/taxa/7998-Corvus",
+            "members": [
+                {
+                    "name": "White-necked Raven (Corvus albicollis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/431611231/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/242126200"
+                },
+                {
+                    "name": "Pied Crow (Corvus albus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/50103706/medium.png",
+                    "src": "https://www.inaturalist.org/observations/31976380"
+                },
+                {
+                    "name": "Little Crow (Corvus bennetti)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/26540836/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/17456559"
+                },
+                {
+                    "name": "Eastern American Crow (Corvus brachyrhynchos ssp. brachyrhynchos)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/350325650/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/198728654"
+                },
+                {
+                    "name": "Northwestern American Crow (Corvus brachyrhynchos ssp. caurinus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/57188412/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/36196832"
+                },
+                {
+                    "name": "Western American Crow (Corvus brachyrhynchos ssp. hesperis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/296270254/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/170784996"
+                },
+                {
+                    "name": "Florida American Crow (Corvus brachyrhynchos ssp. pascuus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/249737530/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/145398850"
+                },
+                {
+                    "name": "Cape Crow (Corvus capensis ssp. capensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/181845665/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/108051952"
+                },
+                {
+                    "name": "Cape Crow (Corvus capensis ssp. kordofanensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/155867023/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/93996074"
+                },
+                {
+                    "name": "Sulawesi Crow (Corvus celebensis ssp. celebensis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/13409442/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/9799350"
+                },
+                {
+                    "name": "North Eurasian Common Raven (Corvus corax ssp. corax)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/347847951/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/197490763"
+                },
+                {
+                    "name": "Kamchatkan Common Raven (Corvus corax ssp. kamtschaticus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/116549036/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/71572977"
+                },
+                {
+                    "name": "South Eurasian Common Raven (Corvus corax ssp. laurencei)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/58381917/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/36885963"
+                },
+                {
+                    "name": "Northern Common Raven (Corvus corax ssp. principalis)",
+                    "img": "https://static.inaturalist.org/photos/107455276/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/66630266"
+                },
+                {
+                    "name": "Southwestern Common Raven (Corvus corax ssp. sinuatus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/621473684/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/266132889"
+                },
+                {
+                    "name": "Tibetan Common Raven (Corvus corax ssp. tibetanus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/235486824/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/137839181"
+                },
+                {
+                    "name": "North African Common Raven (Corvus corax ssp. tingitanus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/461719942/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/257393525"
+                },
+                {
+                    "name": "Icelandic Common Raven (Corvus corax ssp. varius)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/39823176/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/25693259"
+                },
+                {
+                    "name": "Western Hooded Crow (Corvus cornix ssp. cornix)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/284960156/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/164685655"
+                },
+                {
+                    "name": "Mesopotamian Hooded Crow (Corvus cornix ssp. capellanus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/193543825/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/114622944"
+                },
+                {
+                    "name": "East Mediterranean Hooded Crow (Corvus cornix ssp. pallescens)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/606037733/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/333799748"
+                },
+                {
+                    "name": "Eastern Hooded Crow (Corvus cornix ssp. sharpii)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/136825178/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/83317104"
+                },
+                {
+                    "name": "Western Carrion Crow (Corvus corone ssp. corone)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/372072049/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/210354100"
+                },
+                {
+                    "name": "Eastern Carrion Crow (Corvus corone ssp. orientalis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/587663553/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/324657623"
+                },
+                {
+                    "name": "Eastern Australian Raven (Corvus coronoides ssp. coronoides)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/254185296/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/147692229"
+                },
+                {
+                    "name": "Western Australian Raven (Corvus coronoides ssp. perplexus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/522825490/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/290619305"
+                },
+                {
+                    "name": "Thick-billed Raven (Corvus crassirostris)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/62985491/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/39686221"
+                },
+                {
+                    "name": "Chihuahuan Raven (Corvus cryptoleucus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/485672220/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/270081485"
+                },
+                {
+                    "name": "Somali Crow (Corvus edithae)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/1628247/medium.jpg",
+                    "src": "https://www.inaturalist.org/photos/1628247"
+                },
+                {
+                    "name": "Sunda Crow (Corvus enca)",
+                    "img": "https://static.inaturalist.org/photos/255343672/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/148294434"
+                },
+                {
+                    "name": "Flores Crow (Corvus florensis)",
+                    "img": "https://static.inaturalist.org/photos/248465257/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/144728013"
+                },
+                {
+                    "name": "Western Rook (Corvus frugilegus ssp. frugilegus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323614/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/19106938"
+                },
+                {
+                    "name": "Eastern Rook (Corvus frugilegus ssp. pastinator)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/135702531/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/82667821"
+                },
+                {
+                    "name": "Brown-headed Crow (Corvus fuscicapillus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/178546792/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/106297576"
+                },
+                {
+                    "name": "Hawaiian Crow (Corvus hawaiiensis)",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Corvus_hawaiiensis_FWS.jpg/960px-Corvus_hawaiiensis_FWS.jpg",
+                    "src": "https://commons.wikimedia.org/wiki/File:Corvus_hawaiiensis_FWS.jpg"
+                },
+                {
+                    "name": "Tamaulipas Crow (Corvus imparatus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/351366854/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/199256188"
+                },
+                {
+                    "name": "Bismarck Crow (Corvus insularis)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/260004368/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/150753725"
+                },
+                {
+                    "name": "Jamaican Crow (Corvus jamaicensis)",
+                    "img": "https://static.inaturalist.org/photos/341709623/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/194404500"
+                },
+                {
+                    "name": "Mariana Crow (Corvus kubaryi)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/171359805/medium.jpg",
+                    "src": "https://www.inaturalist.org/observations/102503439"
+                },
+                {
+                    "name": "White.necked Crow (Corvus leucognaphalus)",
+                    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/184978813/medium.jpeg",
+                    "src": "https://www.inaturalist.org/observations/109723543"
                 }
             ]
         }
