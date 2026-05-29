@@ -30,7 +30,7 @@ console.log(listdata);
 	<ul>
 		{ listdata.map((item, idx) => (
 			<li>
-				<a href=`#item-${idx}`>
+				<a href=`#${item.header}`>
 				{ item.header }
 				</a>
 			</li>
@@ -38,7 +38,7 @@ console.log(listdata);
 	</ul>
 
 	{ listdata.map((item, idx) => (
-		<div id=`item-${idx}`>
+		<div id={item.header}>
 			<h2 class="center">List of <a href={item.src} target="_blank">{ item.header }</a> with Images</h2>
 
 			<wrapper>
