@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+NOARCHIVE
+NOCACHE
+
+Sitemap: https://gaylie.github.io/lists-with-images/sitemap-index.xml

@@ -16,6 +16,8 @@ const {data} = Astro.props;
         <meta name="theme-color" content={data.cardcolor}>
         <meta property="twitter:card" content="summary">
 
+        <link rel="sitemap" href=`${Astro.site.href}sitemap-index.xml`/>
+
 		<title>{data.title}</title>
 	</head>
 	<body>
@@ -27,6 +29,10 @@ const {data} = Astro.props;
         <footer>
             The webmaster of this site is not a professional in whatever you're viewing a list of and does not guarantee accuracy or completeness.
             Sources to all images are linked in the label underneath each image. Source of the list is linked in the list's header.
+            <div class="links">
+                <a href=`${Astro.site.href}`>List of Lists with Images</a>
+                <a href=`${Astro.site.href}about`>About</a>
+            </div>
         </footer>
 	</body>
 </html>

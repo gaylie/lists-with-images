@@ -1,6 +1,5 @@
 ---
 import Base from '../layouts/base.astro';
-import Table from '../components/table.astro';
 import { getCollection } from 'astro:content';
 const lists  = await getCollection('lists');
 
@@ -13,7 +12,7 @@ var data = {
 <ul>
 	{lists.map(list=> (
 		<li>
-			<a href=`${list.id}`>{list.data.data.title}</a>
+			<a href=`${Astro.site.href}${list.id}`>{list.data.data.title}</a>
 		</li>
 	))}
 </ul>

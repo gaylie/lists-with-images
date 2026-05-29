@@ -15,8 +15,18 @@ content {
 }
 footer {
     border-top: solid black 1px;
-    padding: 1rem 0;
+    padding: 1rem;
     text-align: center;
+    
+    .links {
+        padding-top: 1rem;
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+    }
+}
+a {
+    text-decoration: none;
 }
 
 .center {
@@ -51,7 +61,6 @@ wrapper {
         }
         a {
             min-height: 3lh;
-            text-decoration: none;
         }
         a:not(:has(img)){
             max-width: 300px;
