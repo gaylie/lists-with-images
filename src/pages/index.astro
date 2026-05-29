@@ -12,7 +12,7 @@ var data = {
 <ul>
 	{lists.map(list=> (
 		<li>
-			<a href=`${Astro.site.href}${list.id}`>{list.data.data.title}</a>
+			<a href=`${import.meta.env.BASE_URL}${list.id}`>{list.data.data.title}</a>
 		</li>
 	))}
 </ul>

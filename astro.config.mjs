@@ -8,6 +8,7 @@ const { BASEURL } = loadEnv(process.env.NODE_ENV, process.cwd(), "");
 export default defineConfig({
   outDir: './docs',
   output: 'static',
-  site: BASEURL,
+  site: "https://gaylie.github.io",
+  base: "/lists-with-images/",
   integrations: [sitemap()]
 });
